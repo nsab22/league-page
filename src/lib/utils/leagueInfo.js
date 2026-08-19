@@ -6,7 +6,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p> The Level Below Pro League was made for the community of Sam Octane Larew, commissioned by Nick_Inc </p>
+<p>The Level Below Pro League was made for the community of Sam Octane Larew, commissioned by Nick Inc</p>
 `;
 
 /*   STEP 3   */
@@ -27,7 +27,6 @@ export const managers = [
       "bio": "2025 Champ",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "nwe", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-      },
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
