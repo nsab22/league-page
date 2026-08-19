@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>The Level Below Pro League was founded.</p>
+<p>The Leveo Below Pro League was made for Fantasy Football lovers in Sam Octane Larew's community.</p>
 `;
 
 /*   STEP 3   */
