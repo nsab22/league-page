@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>The Level Below Pro League was founded in 2024 by those in Sam "Octane" Larew's stream that wanted to have fun with fantasy football. </p>
+<p>The Level Below Pro League was founded in 2024 by those in Sam "Octane" Larew's stream that wanted to have fun with fantasy football</p>
 `;
 
 /*   STEP 3   */
