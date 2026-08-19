@@ -6,7 +6,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>The Level Below Pro League was made for the community of Sam Octane Larew, commissioned by Nick_Inc</p>
+<p> The Level Below Pro League was made for the community of Sam Octane Larew, commissioned by Nick_Inc </p>
 `;
 
 /*   STEP 3   */
