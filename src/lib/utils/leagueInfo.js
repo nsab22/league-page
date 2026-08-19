@@ -2,12 +2,12 @@
 export const leagueID = "1312138583477346304"; // your league ID
 export const leagueName = "Level Below Pro League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
-export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
+export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-<p>The Level Below Pro League was founded in 2024 by those in Sam "Octane" Larew's stream that wanted to have fun with fantasy football</p>
+<p>The Level Below Pro League was founded in 2024 by those in Sam "Octane" Larew's stream that wanted to have fun with fantasy football. </p>
 `;
 
 /*   STEP 3   */
